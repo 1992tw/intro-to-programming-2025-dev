@@ -22,19 +22,19 @@
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/intro-to-programming-2025",
   "remoteGithubUrl": "https://github.com/1992tw/intro-to-programming-2025-dev",
   "createdAt": "2025-08-22T18:34:09.962Z",
-  "updatedAt": "2025-08-22T18:34:12.164Z",
+  "updatedAt": "2025-08-22T18:35:22.315Z",
   "lessonCount": 15,
   "lessonMetadata": [
     {
       "id": "68a8b822d50d8b0007ebfa10",
       "lessonNumber": 1,
       "title": "## Scrimba",
-      "status": "pending",
+      "status": "complete",
       "assignment": {
         "title": "Assignment for Lesson 1",
         "objective": "No objective specified",
         "expectedCapabilities": [],
-        "instructions": [],
+        "submissionInstructions": "Please submit on time",
         "tasks": [
           {
             "taskNumber": 1,
@@ -44,7 +44,7 @@
             "_id": "68a8b822d50d8b0007ebfa17"
           }
         ],
-        "submissionInstructions": "Please submit on time",
+        "instructions": [],
         "checklist": [],
         "checkForUnderstanding": []
       },
@@ -57,7 +57,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa11"
+          "_id": "68a8b8a1d50d8b0007ebfd2a"
         },
         {
           "subsectionOrder": 2,
@@ -67,7 +67,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa12"
+          "_id": "68a8b8a1d50d8b0007ebfd2b"
         },
         {
           "subsectionOrder": 3,
@@ -77,7 +77,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa13"
+          "_id": "68a8b8a1d50d8b0007ebfd2c"
         },
         {
           "subsectionOrder": 4,
@@ -87,7 +87,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa14"
+          "_id": "68a8b8a1d50d8b0007ebfd2d"
         },
         {
           "subsectionOrder": 5,
@@ -97,7 +97,7 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa15"
+          "_id": "68a8b8a1d50d8b0007ebfd2e"
         },
         {
           "subsectionOrder": 6,
@@ -107,8 +107,14 @@
           "codeExamples": [],
           "externalLinks": [],
           "quizzes": [],
-          "_id": "68a8b822d50d8b0007ebfa16"
+          "_id": "68a8b8a1d50d8b0007ebfd2f"
         }
+      ],
+      "supplementalVideos": [
+        "https://github.com/Code-the-Dream-School/intro-to-programming-2025/tree/main/lessons"
+      ],
+      "references": [
+        "https://github.com/Code-the-Dream-School/intro-to-programming-2025/tree/main/lessons"
       ]
     },
     {
